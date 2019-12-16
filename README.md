@@ -81,3 +81,7 @@
   - PP
 - This mode should darken the rest of the page
 - Clicking the close should return User to the regular profile
+
+## Rubric
+
+![pokedexRubric](./assets/pokedexRubric.png)
