@@ -62,7 +62,7 @@
   - This component will always have a particular `backgroundColor` for the particular type.
   - You will be doing something like the following:
     - `<Type name='Grass' /> <Type name='Poison' />`
-  - We will leave you to find the colors for all the types LOL
+  - We will leave you to find the colors for all the types
   - There are a total of 18 types
     - `https://bulbapedia.bulbagarden.net/wiki/Type`
 - Clicking on the individual moves will open up the Active Move component
